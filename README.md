@@ -14,5 +14,22 @@ I am creating a basic homelab to perform various Cybersecurity and Networking la
 # Documentation:
 I already have Virtual Box installed but not Kali Linux yet so I headed over to the website and got their torrent file so that I can download the and be able to install the tool. To install Virtual Box though, just head over to their website and select the windows host or whatever OS the device is. My device is Windows so I selected Windows host. I used torrent since I have a torrent app which allows me to download it quickly.
 
-![Kali Website](/img/kali-website.png)
-![Kali Website](/img/oracle-website.png)
+![kali website](/img/kali-website.png)
+![oracle website](/img/oracle-website.png)
+
+After I was done installing the file, I took note where it was located as it will be needed when I set it up later on VirtualBox
+
+![finished downloaded file](/img/downloaded-kali-iso.png)
+
+Now for this to work, we just have to mount it to virtual box and set some configurations for the virtual machine. Since my device is a bit low-end, I decided to set the resources to the following. By the way, before that, here are my specs:
+
+![device specs](/img/device-specs.png)
+
+Below are the specifications I’ve allocated to Kali as I configure it on Virtual Box.
+
+![kali resource](/img/kali-resource-alloc.png)
+
+As I continue with the installation, I’ve already created the name of the device as well as the username. I’ve kept everything default (except for the username) so that they are accessible. At this point, I’ve finished partitioning.
+
+![kali resource](/img/kali-resource-alloc.png)
+
