@@ -31,7 +31,18 @@ Below are the specifications I’ve allocated to Kali as I configure it on Virtu
 
 As I continue with the installation, I’ve already created the name of the device as well as the username. I’ve kept everything default (except for the username) so that they are accessible. At this point, I’ve finished partitioning.
 
-![kali resource](/img/kali-installing.png)
+![kali installing](/img/kali-installing.png)
 
-# FINALLY, IT'S FINISHED!!!
+**FINALLY, IT'S FINISHED!!!**
+
+![kali startup](/img/kali-startup.png)
+![kali desktop](/img/kali-desktop-view.png)
+![kali testing](/img/testing3.png)
+
+---
+# TAKEAWAYS:
+
+The process of installing and setting up the VM was straightforward so there weren’t really any issues whatsoever. Here is the screenshot of Kali Linux right after I finished setting it up. Since it is already set up and up and running, I guess this is the end! This is my first project which was setting up my virtual machine for future hands on labs and testing. 
+
+What I learned while doing this project is how I can set up and create my own virtual machine for my activities. I learned how to work with hypervisors and configure them to then create the VM. With this, I don’t have to worry about the security concerns some labs may pose as I can do it on an isolated environment and it can allow me to further explore without worrying it affecting my main system. However, I still need to be cautious, as working within a VM does not completely eliminate security risks and improper actions can still potentially cause issues.
 
