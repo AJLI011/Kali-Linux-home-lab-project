@@ -31,5 +31,7 @@ Below are the specifications I’ve allocated to Kali as I configure it on Virtu
 
 As I continue with the installation, I’ve already created the name of the device as well as the username. I’ve kept everything default (except for the username) so that they are accessible. At this point, I’ve finished partitioning.
 
-![kali resource](/img/kali-resource-alloc.png)
+![kali resource](/img/kali-installing.png)
+
+# FINALLY, IT'S FINISHED!!!
 
